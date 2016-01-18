@@ -12,7 +12,7 @@ This project can be [Setup on Windows](#setup-windows) or [Mac](#setup-mac).
 5. Install library requirements: ```env\scripts\pip install -r requirements.txt```
 6. Start development server: ```env\scripts\python manage.py runserver```
 7. Browse to the website: open favorite browser to 127.0.0.1:8000
-8. Use sample images to upload a file.
+
 
 ## Setup Mac
 1. [Install Python 3.5 or greater](https://www.python.org/downloads/) (it will work with 2.7 if you want to use it)
@@ -22,4 +22,4 @@ This project can be [Setup on Windows](#setup-windows) or [Mac](#setup-mac).
 5. Install library requirements: ```env/bin/pip install -r requirements.txt```
 6. Start development server: ```env/bin/python manage.py runserver```
 7. Browse to the website: open favorite browser to 127.0.0.1:8000
-8. Use sample images to upload a file.
+
